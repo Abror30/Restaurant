@@ -1,0 +1,11 @@
+C:\Users\abror\Desktop\restaurant project\restaurant\bin\Debug\restaurant.exe.config
+C:\Users\abror\Desktop\restaurant project\restaurant\bin\Debug\restaurant.exe
+C:\Users\abror\Desktop\restaurant project\restaurant\bin\Debug\restaurant.pdb
+C:\Users\abror\Desktop\restaurant project\restaurant\obj\Debug\restaurant.csproj.AssemblyReference.cache
+C:\Users\abror\Desktop\restaurant project\restaurant\obj\Debug\restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\abror\Desktop\restaurant project\restaurant\obj\Debug\restaurant.Form1.resources
+C:\Users\abror\Desktop\restaurant project\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+C:\Users\abror\Desktop\restaurant project\restaurant\obj\Debug\restaurant.csproj.GenerateResource.cache
+C:\Users\abror\Desktop\restaurant project\restaurant\obj\Debug\restaurant.csproj.CoreCompileInputs.cache
+C:\Users\abror\Desktop\restaurant project\restaurant\obj\Debug\restaurant.exe
+C:\Users\abror\Desktop\restaurant project\restaurant\obj\Debug\restaurant.pdb
